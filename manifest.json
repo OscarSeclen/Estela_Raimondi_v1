@@ -1,9 +1,9 @@
 {
  "background_color": "#000000",
- "display": "fullscreen",
  "theme_color": "#000000",
- "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
  "name": "Cultura Chavin",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "src": "misc/icon150.png",
